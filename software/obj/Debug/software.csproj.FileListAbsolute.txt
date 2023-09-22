@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\CS_to_S7.exe.config
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\CS_to_S7.exe
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\CS_to_S7.pdb
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\S7.Net.xml
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\software.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.Form1.resources
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.Properties.Resources.resources
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\software.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\software.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\software.csproj.CopyComplete
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.exe
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.pdb

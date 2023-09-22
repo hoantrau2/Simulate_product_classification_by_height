@@ -1,0 +1,27 @@
+D:\Something\New folder\Ky 6\C#\CS_to_S7\bin\Debug\CS_to_S7.exe.config
+D:\Something\New folder\Ky 6\C#\CS_to_S7\bin\Debug\CS_to_S7.exe
+D:\Something\New folder\Ky 6\C#\CS_to_S7\bin\Debug\CS_to_S7.pdb
+D:\Something\New folder\Ky 6\C#\CS_to_S7\bin\Debug\S7.Net.dll
+D:\Something\New folder\Ky 6\C#\CS_to_S7\bin\Debug\S7.Net.xml
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.csproj.AssemblyReference.cache
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.csproj.SuggestedBindingRedirects.cache
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.Form1.resources
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.Properties.Resources.resources
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.csproj.GenerateResource.cache
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.csproj.CoreCompileInputs.cache
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.csproj.CopyComplete
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.exe
+D:\Something\New folder\Ky 6\C#\CS_to_S7\obj\Debug\CS_to_S7.pdb
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\CS_to_S7.exe.config
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\CS_to_S7.exe
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\CS_to_S7.pdb
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\bin\Debug\S7.Net.xml
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.Form1.resources
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.Properties.Resources.resources
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.csproj.CopyComplete
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.exe
+C:\Users\Admin\Downloads\FactoryIO_Csharp\FactoryIO_Csharp\software\obj\Debug\CS_to_S7.pdb
